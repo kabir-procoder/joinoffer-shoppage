@@ -1,0 +1,114 @@
+@media (max-width: 1399px) {
+.searchbox
+{
+    width: 700px;
+}
+.searchbox input
+{
+    width: 650px;
+}
+}
+@media (max-width: 1199px) {
+.carousel-indicators
+{
+    left: -80% !important;
+}
+.carousel-caption
+{
+    left: 60px;
+}
+.carousel-caption p
+{
+    font-size: 18px;
+    line-height: 30px;
+}
+.carousel-caption h1
+{
+    font-size: 43px;
+    line-height: 56.24px;
+}
+.searchbox
+{
+    width: 600px;
+}
+.searchbox input
+{
+    width: 550px;
+}
+}
+@media (max-width: 991px) {
+.navbar
+{
+    background: #e6e6e6;
+}
+.navbrand
+{
+    display: none;
+}
+.navbar-brand
+{
+    display: block !important;
+}
+.searchbox
+{
+    width: 100%;
+}
+.searchbox input
+{
+    width: 90%;
+}
+.heart
+{
+    display: none;
+}
+.input-group span
+{
+    display: none;
+}
+.about-content
+{
+    margin-top: 20px;
+    padding-left: 0 !important;
+}
+.benefit-content
+{
+    justify-content: left;
+}
+.copysecound
+{
+    margin-top: 10px;
+}
+.copythird
+{
+    margin-top: 10px;
+}
+.carousel-indicators
+{
+    display: none;
+}
+.carousel-caption
+{
+    left: 44px;
+}
+.carousel-caption p
+{
+    line-height: 30px;
+}
+.carousel-caption h1
+{
+    font-size: 33px;
+    line-height: 36.24px;
+}
+/* Shop Page */
+.shop-headbtn-button
+{
+    margin-top: 10px;
+}
+}
+@media (max-width: 600px)
+{
+.top-left-content p
+{
+    font-size: 8px;
+}
+}
